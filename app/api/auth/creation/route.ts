@@ -3,6 +3,8 @@ import prisma from "@/app/lib/db";
 import { NextResponse } from "next/server";
 import { unstable_noStore as noStore } from "next/cache";
 
+// route handlers have same functionalies as server components
+
 export async function GET() {
   noStore();
   const { getUser } = getKindeServerSession();
