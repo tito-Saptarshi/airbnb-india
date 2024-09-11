@@ -28,7 +28,7 @@
     "react-date-range": "^2.0.0-alpha.4",
     "react-dom": "^18",
     "react-leaflet": "^4.2.1",
-    "tailwind-merge": "^2.2.1",
+    "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
     "world-countries": "^5.0.0"
   },
